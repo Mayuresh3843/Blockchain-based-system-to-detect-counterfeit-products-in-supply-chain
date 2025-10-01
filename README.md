@@ -78,10 +78,36 @@ npm run dev
 
 7. Open the frontend (index.html) in a browser.
 
+
 ## 📸 Screenshots  
 
-### 🏠 Homepage  
+### ![Badge](https://img.shields.io/badge/Homepage-lightblue?style=for-the-badge)
 ![Homepage Screenshot](./screenshots/homepage.png)  
 
 ### ![Badge](https://img.shields.io/badge/Manufacturer-Dashboard-blue?style=for-the-badge)
 ![Manufacturer Screenshot](./screenshots/manufacturer.png)  
+
+### ![Badge](https://img.shields.io/badge/Seller-Dashboard-green?style=for-the-badge)
+![Seller Screenshot](./screenshots/seller.png)  
+
+### ![Badge](https://img.shields.io/badge/Consumer-Dashboard-orange?style=for-the-badge)
+![Consumer Screenshot](./screenshots/consumer.png)  
+
+### ![Badge](https://img.shields.io/badge/Product-Verification-yellow?style=for-the-badge)
+![Product Verification Screenshot](./screenshots/product-verification.png)  
+
+### ![Badge](https://img.shields.io/badge/Verify-Products-lightgrey?style=for-the-badge)
+![Verify Products Screenshot](./screenshots/consumer-verify-products.png)  
+
+### ![Badge](https://img.shields.io/badge/Purchase-History-purple?style=for-the-badge)
+![Purchase History Screenshot](./screenshots/consumer-purchase-history.png)  
+
+### ![Badge](https://img.shields.io/badge/Genuine-Product-success?style=for-the-badge)
+![Genuine Product Screenshot](./screenshots/genuine-product.png)  
+
+### ![Badge](https://img.shields.io/badge/Fake-Product-critical?style=for-the-badge)
+![Fake Product Screenshot](./screenshots/fake-product.png)  
+
+### ![Badge](https://img.shields.io/badge/Ganache-Blockchain-orange?style=for-the-badge&logo=ethereum&logoColor=white)
+![Ganache Screenshot](./screenshots/ganache.png)  
+
