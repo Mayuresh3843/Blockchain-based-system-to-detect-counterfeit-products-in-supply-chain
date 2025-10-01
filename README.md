@@ -83,3 +83,5 @@ npm run dev
 ### 🏠 Homepage  
 ![Homepage Screenshot](./screenshots/homepage.png)  
 
+### ![Badge](https://img.shields.io/badge/Manufacturer-Dashboard-blue?style=for-the-badge)
+![Manufacturer Screenshot](./screenshots/manufacturer.png)  
