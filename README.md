@@ -77,3 +77,9 @@ npm run dev
 ```
 
 7. Open the frontend (index.html) in a browser.
+
+## 📸 Screenshots  
+
+### 🏠 Homepage  
+![Homepage Screenshot](./screenshots/homepage.png)  
+
