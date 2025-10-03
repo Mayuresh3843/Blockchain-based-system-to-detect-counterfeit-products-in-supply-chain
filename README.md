@@ -96,9 +96,6 @@ npm run dev
 ### ![Badge](https://img.shields.io/badge/Product-Verification-yellow?style=for-the-badge)
 ![Product Verification Screenshot](./screenshots/product-verification.png)  
 
-### ![Badge](https://img.shields.io/badge/Verify-Products-lightgrey?style=for-the-badge)
-![Verify Products Screenshot](./screenshots/consumer-verify-products.png)  
-
 ### ![Badge](https://img.shields.io/badge/Purchase-History-purple?style=for-the-badge)
 ![Purchase History Screenshot](./screenshots/consumer-purchase-history.png)  
 
