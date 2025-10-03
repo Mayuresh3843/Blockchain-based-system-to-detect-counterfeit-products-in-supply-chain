@@ -53,7 +53,7 @@ By leveraging **Ethereum blockchain, smart contracts, and decentralized validati
 
 1. Clone this repository:  
 ```bash
-   git clone https://github.com/yourusername/Blockchain-based-system-to-detect-counterfeit-products-in-supply-chain.git
+   git clone https://github.com/Mayuresh3843/Blockchain-based-system-to-detect-counterfeit-products-in-supply-chain.git
 ```
 
 2. Navigate to project directory:
