@@ -22,12 +22,12 @@ By leveraging **Ethereum blockchain, smart contracts, and decentralized validati
 
 ## ✨ Features  
 
-- ✅ **Blockchain Security** – Each transaction is validated and stored on Ethereum blockchain.  
-- ✅ **Product Verification** – Customers can check authenticity via blockchain records.  
-- ✅ **Smart Contracts** – Ensure tamper-proof records for supply chain operations.  
-- ✅ **Integration with MetaMask** – For transaction signing and account management.  
-- ✅ **Ganache Local Blockchain** – For testing blockchain operations in development.  
-- ✅ **Web Interface** – Developed using HTML, CSS, JavaScript for easy interaction.  
+✅ **Blockchain Security** – Each transaction is validated and stored on Ethereum blockchain.  
+✅ **Product Verification** – Customers can check authenticity via blockchain records.  
+✅ **Smart Contracts** – Ensure tamper-proof records for supply chain operations.  
+✅ **Integration with MetaMask** – For transaction signing and account management.  
+✅ **Ganache Local Blockchain** – For testing blockchain operations in development.  
+✅ **Web Interface** – Developed using HTML, CSS, JavaScript for easy interaction.  
 
 ---
 
